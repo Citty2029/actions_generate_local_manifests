@@ -1,0 +1,7 @@
+
+repo init -u https://github.com/LineageOS/android.git -b lineage-21.0 --git-lfs
+git clone https://github.com/Citty2029/android_device_samsung_a04e device/samsung/a04e -b lineage-21.0
+git clone https://github.com/Citty2029/android_device_samsung_a04e-common device/samsung/a04e-common lineage-21.0
+git clone https://github.com/Citty2029/android_kernel_samsung_a04e kernel/samsung/a04e -b lineage-21.0
+git clone https://github.com/Citty2029/device_vendor_samsung_a04e vendor/samsung/a04e -b lineage-21.0
+
